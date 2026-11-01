@@ -13,7 +13,6 @@
   <a href="mailto:jdsouza_07@gatech.edu">Email</a>
 </p>
 
-<p align="center"><sub>My koi is redrawn every night from my GitHub activity. The more I build, the more it grows.</sub></p>
 <!--
 **jdsouz07/jdsouz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
