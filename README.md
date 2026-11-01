@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:jdsouza_07@gatech.edu">Email</a>
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
+  <a href="mailto:jdsouza_07@gatech.edu">Email</a>
 </p>
 
 <!--
