@@ -2,10 +2,10 @@
   <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
-<h2 align="center">Hi, I'm John 👋</h2>
+<h2 align="center">John DSouza</h2>
 
 <p align="center">
-  CS @ Georgia Tech (AI + Cybersecurity) · Co-founder of Volee, an iOS app for competitive tennis match play
+  CS @ Georgia Tech (AI + Cybersecurity)
 </p>
 
 <p align="center">
