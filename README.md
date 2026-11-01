@@ -1,4 +1,19 @@
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
+
+<h2 align="center">Hi, I'm John 👋</h2>
+
+<p align="center">
+  CS @ Georgia Tech (AI + Cybersecurity) · Co-founder of Volee, an iOS app for competitive tennis match play
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
+  <a href="mailto:jdsouza_07@gatech.edu">Email</a>
+</p>
+
+<p align="center"><sub>My koi is redrawn every night from my GitHub activity. The more I build, the more it grows.</sub></p>
 <!--
 **jdsouz07/jdsouz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
