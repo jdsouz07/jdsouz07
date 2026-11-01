@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-</p>
-
 <h2 align="center">John DSouza</h2>
 
 <p align="center">
@@ -11,6 +7,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
   <a href="mailto:jdsouza_07@gatech.edu">Email</a>
+</p>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
 <!--
