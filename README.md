@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/noel-j-dsouza/">LinkedIn</a> ·
   <a href="mailto:jdsouza_07@gatech.edu">Email</a>
 </p>
