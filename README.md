@@ -1,7 +1,7 @@
 <h2 align="center">John D'Souza</h2>
 
 <p align="center">
-  CS @ Georgia Tech (AI + Cybersecurity) · I build iOS apps, AI agents, and automation tools
+  CS @ Georgia Tech (AI + Cybersecurity)
 </p>
 
 <p align="center">
