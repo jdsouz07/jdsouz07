@@ -1,4 +1,4 @@
-<h2 align="center">John D'Souza</h2>
+<h2 align="center">Noel D'Souza</h2>
 
 <p align="center">
   CS @ Georgia Tech (AI + Cybersecurity)
